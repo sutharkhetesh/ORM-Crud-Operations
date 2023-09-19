@@ -1,6 +1,8 @@
 const express = require('express');
 const { PrismaClient } = require('@prisma/client');
 const app = express();
+const cors = require('cors');
+app.use(cors());
 
 const prisma = new PrismaClient();
 
@@ -14,6 +16,7 @@ app.get('/Books', async (req, res) => {
     console.log(books);
     res.json(books)
 });
+
 
 
 app.post('/Books', async (req, res) => {
@@ -107,6 +110,15 @@ app.patch('/authors/:id', async (req, res) => {
     console.log(authors);
     res.json(authors)
 });
+
+// book show database
+app.get('/show', async (req, res) => {
+    console.log(req)
+    const shows = await prisma.book_show.findMany();
+    console.log(shows);
+    res.json(shows)
+});
+
 
 
 app.listen(8000);

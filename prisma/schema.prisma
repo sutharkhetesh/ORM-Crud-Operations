@@ -12,9 +12,9 @@ datasource db {
 
 model Books {
   id           Int       @id @default(autoincrement()) @map("id")
-  books_status Boolean
+  books_status Boolean 
   books_price  Int
-  books_title  String
+  books_title  String  
   library_name String
   authors      authors[]
 }
@@ -24,4 +24,14 @@ model authors {
   name    String
   book_id Int
   Books   Books  @relation(fields: [book_id], references: [id])
+}
+
+model book_show{
+  id           Int       @id @default(autoincrement()) @map("id")
+  price  String
+  title  String 
+  condition String
+  author String 
+  
+  
 }
