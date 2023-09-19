@@ -32,6 +32,7 @@ model book_show{
   title  String 
   condition String
   author String 
+   image String
   
   
 }

@@ -3,180 +3,210 @@
     "title": "Pocahontas and the Strangers (Scholastic Biography)",
     "price": "$6.29",
     "condition": "Good",
-    "author": "Clyde Robert BullaPeter Bulla, Clyde Robert, Illustrated by Burchard"
+    "author": "Clyde Robert BullaPeter Bulla, Clyde Robert, Illustrated by Burchard",
+    "image": "https://img.thriftbooks.com/api/images/m/d7dcd406a2b9d4d652b38f0a467c23ac824e20f4.jpg"
   },
   {
     "title": "Orlando: A Biography",
     "price": "$15.30",
     "condition": "New",
-    "author": "Virginia Woolf"
+    "author": "Virginia Woolf",
+    "image": "https://img.thriftbooks.com/api/images/i/m/62AC55EE40A7BEDD073BE321959F0C5484483065.jpg"
   },
   {
     "title": "Cod: A Biography of the Fish that Changed the World",
     "price": "$4.39",
     "condition": "Good",
-    "author": "Mark Kurlansky"
-  },
-  {
-    "title": "Helen Keller (Scholastic Biography)",
-    "price": "$4.19",
-    "condition": "Good",
-    "author": "Margaret Davidson"
+    "author": "Mark Kurlansky",
+    "image": "https://m.media-amazon.com/images/I/516DkqA+E-L._SL350_.jpg"
   },
   {
     "title": "The Emperor of All Maladies: A Biography of Cancer",
     "price": "$8.69",
     "condition": "Good*",
-    "author": "Siddhartha Mukherjee"
+    "author": "Siddhartha Mukherjee",
+    "image": "https://img.thriftbooks.com/api/images/i/m/BDACB02E79DB907E732A09E04AA22F5C32499F0E.jpg"
+  },
+  {
+    "title": "Helen Keller (Scholastic Biography)",
+    "price": "$4.19",
+    "condition": "Good",
+    "author": "Margaret Davidson",
+    "image": "https://m.media-amazon.com/images/I/51lBeNy8OyL._SL350_.jpg"
   },
   {
     "title": "Freedom Train: The Story of Harriet Tubman",
     "price": "$4.59",
     "condition": "Good",
-    "author": "Dorothy Sterling"
+    "author": "Dorothy Sterling",
+    "image": "https://img.thriftbooks.com/api/images/i/m/9244EE0B2D0DC9E219C2D7AED2464D218D6A4C3B.jpg"
   },
   {
     "title": "Frida: A Biography of Frida Kahlo",
     "price": "$6.79",
     "condition": "Good",
-    "author": "Hayden Herrera"
+    "author": "Hayden Herrera",
+    "image": "https://img.thriftbooks.com/api/images/i/m/54399C759A40FE117969756F38975D1709341256.jpg"
   },
   {
     "title": "Jimmy Stewart: A Biography",
     "price": "$6.49",
     "condition": "Good",
-    "author": "Marc Eliot"
+    "author": "Marc Eliot",
+    "image": "https://img.thriftbooks.com/api/images/m/c18d5d3a36e3482a665b3888c184949109f72001.jpg"
   },
   {
     "title": "Jerusalem: The Biography",
     "price": "$7.79",
     "condition": "Good",
-    "author": "Simon Sebag Montefiore"
+    "author": "Simon Sebag Montefiore",
+    "image": "https://img.thriftbooks.com/api/images/i/m/4377E68AF2842D9F2498B8981C2F55CE255625A2.jpg"
   },
   {
     "title": "Zero: The Biography of a Dangerous Idea",
     "price": "$6.69",
     "condition": "Good",
-    "author": "Charles Seife"
+    "author": "Charles Seife",
+    "image": "https://img.thriftbooks.com/api/images/i/m/81A27E479C0C19D5B3CF5951ACF208950D8A3F84.jpg"
   },
   {
     "title": "J.R.R. Tolkien: A Biography",
     "price": "$9.99",
     "condition": "Good",
-    "author": "Humphrey Carpenter"
+    "author": "Humphrey Carpenter",
+    "image": "https://img.thriftbooks.com/api/images/i/m/076A3406FDBA9125B03B6C61217FA9C16EBC01C5.jpg"
   },
   {
     "title": "Boone",
     "price": "$7.19",
     "condition": "Good",
-    "author": "Robert Morgan"
-  },
-  {
-    "title": "Squanto, Friend of the Pilgrims",
-    "price": "$13.49",
-    "condition": "Good",
-    "author": "Clyde Robert Bulla"
-  },
-  {
-    "title": "Heavier Than Heaven: A Biography of Kurt Cobain",
-    "price": "$8.39",
-    "condition": "Very Good",
-    "author": "Charles R. Cross"
+    "author": "Robert Morgan",
+    "image": "https://img.thriftbooks.com/api/images/m/c7536d98882e0e7dcaa66ff77513982f1e1c1dc5.jpg"
   },
   {
     "title": "Steve Jobs",
     "price": "$4.49",
     "condition": "Good",
-    "author": "Walter Isaacson"
+    "author": "Walter Isaacson",
+    "image": "https://img.thriftbooks.com/api/images/i/m/8929F04074F0A20258D0A8F04965AF8045436A9C.jpg"
+  },
+  {
+    "title": "Heavier Than Heaven: A Biography of Kurt Cobain",
+    "price": "$8.39",
+    "condition": "Very Good",
+    "author": "Charles R. Cross",
+    "image": "https://img.thriftbooks.com/api/images/i/m/3D28D4692DD48EDFD7710D3E372BB95803D4F239.jpg"
+  },
+  {
+    "title": "Squanto, Friend of the Pilgrims",
+    "price": "$13.49",
+    "condition": "Good",
+    "author": "Clyde Robert Bulla",
+    "image": "https://m.media-amazon.com/images/I/5144AW6mhDL._SL350_.jpg"
   },
   {
     "title": "Cary Grant: A Biography",
     "price": "$4.89",
     "condition": "Good",
-    "author": "Marc Eliot"
+    "author": "Marc Eliot",
+    "image": "https://img.thriftbooks.com/api/images/i/m/98BD39DF87B291B2E3E9DBDE24CBBF7541FA23EB.jpg"
   },
   {
     "title": "The Story Of George Washington Carver (Scholastic Biography)",
     "price": "$4.29",
     "condition": "Good",
-    "author": "Eva Moore"
+    "author": "Eva Moore",
+    "image": "https://img.thriftbooks.com/api/images/i/m/490B0664FC852F97F7FD909021B5CFA4EA4E0358.jpg"
   },
   {
     "title": "Natasha: The Biography of Natalie Wood",
     "price": "$5.69",
     "condition": "Good",
-    "author": "Suzanne Finstad"
+    "author": "Suzanne Finstad",
+    "image": "https://m.media-amazon.com/images/I/512EiWg8YKL._SL350_.jpg"
   },
   {
     "title": "Rant: An Oral Biography of Buster Casey",
     "price": "$4.19",
     "condition": "Good",
-    "author": "Chuck Palahniuk"
+    "author": "Chuck Palahniuk",
+    "image": "https://img.thriftbooks.com/api/images/i/m/90AD016153925EE2090E729A2307170A08D0E7B9.jpg"
   },
   {
     "title": "The Beatles: The Biography",
     "price": "$6.99",
     "condition": "Good",
-    "author": "Bob Spitz"
+    "author": "Bob Spitz",
+    "image": "https://img.thriftbooks.com/api/images/m/98c68f67cdc6d5f8a46537b1a1f49a118a68ae38.jpg"
   },
   {
     "title": "The Mitford Girls: The Biography of an Extraordinary Family",
     "price": "$4.39",
     "condition": "Good",
-    "author": "Mary S. Lovell"
+    "author": "Mary S. Lovell",
+    "image": "https://img.thriftbooks.com/api/images/m/9d8747a8c95bd5889fa9b5626c7e798c1314c31d.jpg"
   },
   {
     "title": "Laura Ingalls Wilder: A Biography (Little House)",
     "price": "$6.49",
     "condition": "Good",
-    "author": "William AndersonWilliam H. Armstrong"
+    "author": "William AndersonWilliam H. Armstrong",
+    "image": "https://img.thriftbooks.com/api/images/m/f596aee9bb4acdd559b90429504f23fecd1e8672.jpg"
   },
   {
     "title": "Africa: A Biography of the Continent",
     "price": "$6.49",
     "condition": "Acceptable",
-    "author": "John Reader"
+    "author": "John Reader",
+    "image": "https://img.thriftbooks.com/api/images/i/m/958768E54ED343778C944C7ABBC0A1621687A99D.jpg"
   },
   {
     "title": "A. Lincoln: A Biography",
     "price": "$5.59",
     "condition": "Good",
-    "author": "Ronald C. White Jr."
+    "author": "Ronald C. White Jr.",
+    "image": "https://img.thriftbooks.com/api/images/i/m/BC4A6CA6BBB6893D272BCB9AACD3278E0DCB8770.jpg"
   },
   {
     "title": "Beachcombers",
     "price": "$4.49",
     "condition": "Good",
-    "author": "Nancy Thayer"
-  },
-  {
-    "title": "Kissinger: A Biography",
-    "price": "$9.19",
-    "condition": "Very Good",
-    "author": "Walter Isaacson"
+    "author": "Nancy Thayer",
+    "image": "https://img.thriftbooks.com/api/images/m/8e8c68fe067dfa38e7b4c0461a0e4deefde9962a.jpg"
   },
   {
     "title": "America's Constitution: A Biography",
     "price": "$5.39",
     "condition": "Good",
-    "author": "Akhil Reed Amar"
+    "author": "Akhil Reed Amar",
+    "image": "https://img.thriftbooks.com/api/images/i/m/F6A8F753FC88B082C6E7448A9EB0057146FB7580.jpg"
+  },
+  {
+    "title": "Kissinger: A Biography",
+    "price": "$9.19",
+    "condition": "Very Good",
+    "author": "Walter Isaacson",
+    "image": "https://m.media-amazon.com/images/I/41vclq754YL._SL350_.jpg"
   },
   {
     "title": "Rachel Maddow",
     "price": "$4.29",
     "condition": "Good",
-    "author": "Lisa Rogak"
-  },
-  {
-    "title": "London: The Biography",
-    "price": "$5.79",
-    "condition": "Good",
-    "author": "Peter Ackroyd"
+    "author": "Lisa Rogak",
+    "image": "https://img.thriftbooks.com/api/images/i/m/7DCD4DBAF9A329B4C61AD18C34B8FA831ECE6B11.jpg"
   },
   {
     "title": "Witness to Hope",
     "price": "$7.19",
     "condition": "Good*",
-    "author": "George Weigel"
+    "author": "George Weigel",
+    "image": "https://img.thriftbooks.com/api/images/m/98f6bc7a654fd68d17b56f9fc6b7dceb2eb83a61.jpg"
+  },
+  {
+    "title": "London: The Biography",
+    "price": "$5.79",
+    "condition": "Good",
+    "author": "Peter Ackroyd",
+    "image": "https://img.thriftbooks.com/api/images/i/m/3CEEE1EDDC4D284881B158371C63D7E72464BDFE.jpg"
   }
 ]

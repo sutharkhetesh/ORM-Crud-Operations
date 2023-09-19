@@ -19,7 +19,7 @@ async function main() {
     const price = "$" + first; 
     const condition = $(".SearchResultListItem-subheading strong", el).text();
     const author = $(".SearchResultListItem-bottomSpacing a", el).text();
-    const image = $(".SearchResultTileItem-photo img", el).attr('src');
+    // const image = $(".SearchResultTileItem-photo img", el).attr('src');
 
     
 
@@ -30,7 +30,7 @@ async function main() {
       price,
       condition,
       author,
-      image,
+      // image,
     
     });
   });
