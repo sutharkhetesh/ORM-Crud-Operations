@@ -8,7 +8,7 @@ async function main() {
   await page.goto('https://www.thriftbooks.com/');
   await page.type(".Search-input", 'biography');
   await page.keyboard.press('Enter');
-  await page.waitForTimeout(5000)
+  await page.waitForTimeout(15000)
 
   // await browser.close();
   const productsData = [];
@@ -19,7 +19,7 @@ async function main() {
     const price = "$" + first; 
     const condition = $(".SearchResultListItem-subheading strong", el).text();
     const author = $(".SearchResultListItem-bottomSpacing a", el).text();
-    // const image = $(".SearchResultTileItem-photo img", el).attr('src');
+     const image = $(".SearchResultTileItem-photo img", el).attr('src');
 
     
 
@@ -30,7 +30,7 @@ async function main() {
       price,
       condition,
       author,
-      // image,
+       image,
     
     });
   });
